@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandDemo", "HandDemo.csproj", "{104DB1D4-6B48-862E-3EA6-2CEAF71A43D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandDemo.Editor", "HandDemo.Editor.csproj", "{7725426B-93F0-A115-0EB0-2AC5E8D25EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104DB1D4-6B48-862E-3EA6-2CEAF71A43D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104DB1D4-6B48-862E-3EA6-2CEAF71A43D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104DB1D4-6B48-862E-3EA6-2CEAF71A43D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104DB1D4-6B48-862E-3EA6-2CEAF71A43D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7725426B-93F0-A115-0EB0-2AC5E8D25EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7725426B-93F0-A115-0EB0-2AC5E8D25EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7725426B-93F0-A115-0EB0-2AC5E8D25EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7725426B-93F0-A115-0EB0-2AC5E8D25EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
